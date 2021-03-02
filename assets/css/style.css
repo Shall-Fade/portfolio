@@ -251,7 +251,7 @@ body {
         font-size: 10px;
     }
     .main-img {
-        width: 100%;
+        display: none;
     }
     .main-title {
         text-align: center;
