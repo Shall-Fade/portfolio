@@ -243,15 +243,14 @@ body {
 }
 
 @media screen and (max-width: 650px) {
-    .nav-list {
-        justify-content: space-around;
-        padding: 16px 0;
+    .head {
+        margin-bottom: 0;
     }
-    .nav-item a {
-        font-size: 10px;
+    .nav-list {
+        display: none;
     }
     .main-img {
-        display: none;
+        width: 100%;
     }
     .main-title {
         text-align: center;
